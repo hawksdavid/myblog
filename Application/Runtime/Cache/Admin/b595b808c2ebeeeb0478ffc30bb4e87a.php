@@ -1,0 +1,12 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MyBlog-后台管理系统</title>
+</head>
+<body>
+	<div class="container">
+		This is controller of my blog systems!
+	</div>
+</body>
+</html>
